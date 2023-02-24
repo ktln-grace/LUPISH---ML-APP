@@ -1,0 +1,8 @@
+0 Angelfish
+1 Clownfish
+2 Flowerhead
+3 Goldfish
+4 Powder Blue Fish
+5 Red Tail Black Shark
+6 Yellow Tang
+7 Guppy
